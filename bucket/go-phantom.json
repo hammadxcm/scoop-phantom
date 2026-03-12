@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/hammadxcm/go-phantom/releases/download/v0.0.1/phantom-windows.exe",
-            "hash": "bec7d5d647f96c78bd79ba248e2da2b25854bde3a86a2d1d1907030bd4c5dd5e"
+            "hash": "7fd26328aac38b738d86de360782eec42c49399c78055e3e2737144dc2508977"
         }
     },
     "bin": [["phantom-windows.exe", "phantom"]],
